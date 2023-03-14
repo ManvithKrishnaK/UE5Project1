@@ -10,6 +10,6 @@ public class AntMan : ModuleRules
 
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "EnhancedInput" });
 
-		PublicDependencyModuleNames.AddRange(new string[] { "AntMan" });
+		//PublicDependencyModuleNames.AddRange(new string[] { "AntMan" });
 	}
 }
